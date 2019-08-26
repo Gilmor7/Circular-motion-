@@ -2,5 +2,5 @@
 Circular Motion Effect with CanvasJS
 
 # Tech 
--HTML5
--JavaScript
+* HTML5
+* JavaScript
